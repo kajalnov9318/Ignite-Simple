@@ -11,7 +11,7 @@ function Activity(activity) {
     </div>`
 }
 
-// Dashed line between activities
+
 const Line = `
   <div class="border-l-2 border-dashed border-orange-400 h-7 ml-5"></div>
 `

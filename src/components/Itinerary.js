@@ -1,6 +1,6 @@
 import { DayCard } from './DayCard.js'
 
-// ITINERARY SECTION
+
 export function Itinerary(days) {
   return `
     <section class="px-6 py-10">

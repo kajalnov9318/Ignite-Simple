@@ -1,4 +1,4 @@
-// HERO SECTION
+
 export function Header() {
   return `
     <div class="w-full h-[65vh]">

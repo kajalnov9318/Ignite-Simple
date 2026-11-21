@@ -1,6 +1,4 @@
-// Page ka saara data yahan hai. Text badalna ho toh sirf yeh file badlo.
 
-// 4 din ka mausam
 export const weather = [
   { day: 'Thursday', date: 'Sept 10', high: 20, low: 13 },
   { day: 'Friday', date: 'Sept 11', high: 24, low: 14 },
@@ -8,7 +6,7 @@ export const weather = [
   { day: 'Sunday', date: 'Sept 13', high: 19, low: 9 },
 ]
 
-// 4 din ka program. icon = Lucide icon ka naam (https://lucide.dev/icons)
+
 export const days = [
   {
     day: 1,
